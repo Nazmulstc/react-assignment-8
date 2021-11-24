@@ -1,0 +1,18 @@
+.cart{
+    padding: 5px;
+}
+.pay-button{
+    background-color: blue;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 0 auto;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.pay-button:hover{
+    background-color: rgb(123, 123, 124);
+}

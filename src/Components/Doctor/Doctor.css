@@ -1,0 +1,44 @@
+.doctor{
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 20px;
+    background-color: rgb(235, 231, 231);
+    max-height: 600px;
+    transition: 0.3s;
+    
+}
+.doctor:hover{
+    background-color: rgb(190, 186, 186);
+}
+
+.doctor-name{
+    color: blue;
+    font-weight: 400;
+}
+.doctor-img{
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 50%;
+    background-color: lightgrey;
+}
+.price{
+    color: red;
+    font-weight: bold;
+}
+.btn{
+    background-color: blue;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 0 auto;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.btn:hover{
+    background-color: rgb(64, 64, 66);
+}

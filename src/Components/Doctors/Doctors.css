@@ -1,0 +1,24 @@
+.container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+
+.doctors-container{
+    border-right: 1px solid lightgray;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-right: 5px;
+    margin: 25px;
+}
+.cart-container{
+    border-radius: 10px;
+    background-color: rgb(235, 231, 231);
+    height: 300px;
+    position: fixed;
+    margin-left: auto;
+    margin-top:10px;
+    
+    
+    
+}
